@@ -1,7 +1,9 @@
 {
   "version": "0.1.0",
-  "build": "20260723-1532",
+  "build": "20260723-1615",
   "channel": "test-full",
   "url": "https://github.com/MimirValhalla/huginn-releases/releases/latest",
-  "notes": "報告ボタン・自動更新チェック・機能紹介タブを追加しました"
+  "zipUrl": "https://github.com/MimirValhalla/huginn-releases/releases/download/v0.1.0-test-20260723-1615/Huginn-Full-v0.1.0-test-20260723-1615.zip",
+  "sha256": "b82f2d02c8f56ee747656d1d832de26b6f494d6046602853a1b62f74c56ab76c",
+  "notes": "自動更新のテストです"
 }
