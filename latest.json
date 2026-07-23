@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "build": "20260723-1433",
+  "channel": "test-full",
+  "url": "https://github.com/MimirValhalla/huginn-releases/main/latest",
+  "notes": "最初のテスト配布です"
+}
