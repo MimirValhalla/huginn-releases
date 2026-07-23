@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
-  "build": "20260723-1502",
+  "build": "20260723-1532",
   "channel": "test-full",
-  "url": "https://github.com/MimirValhalla/huginn-releases/releases",
-  "notes": "最初のテスト配布です"
+  "url": "https://github.com/MimirValhalla/huginn-releases/releases/latest",
+  "notes": "報告ボタン・自動更新チェック・機能紹介タブを追加しました"
 }
